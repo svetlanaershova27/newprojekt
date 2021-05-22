@@ -1,3 +1,4 @@
+kkl main
 
 so i really need your advice
 see you as soon as possible
@@ -13,5 +14,9 @@ git add
 
 git commit -m " "# описание
 vim ..
+<<<<<<< HEAD
 
+=======
+ main
+>>>>>>> branch1
 git push -f origin main 
