@@ -3,7 +3,7 @@ so i really need your advice
 see you as soon as possible
 
 
-(2) git init
+
 
 (3) git remote add origin https://repository.remote.url 759
 
