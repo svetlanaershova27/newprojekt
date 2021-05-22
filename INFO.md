@@ -13,5 +13,5 @@ git add
 
 git commit -m " "# описание
 vim ..
- main
+ 
 git push -f origin main 
