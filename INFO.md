@@ -15,8 +15,12 @@ git add
 git commit -m " "# описание
 vim ..
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
  main
 >>>>>>> branch1
+=======
+ 
+>>>>>>> branch2
 git push -f origin main 
