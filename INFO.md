@@ -1,3 +1,6 @@
+totally a don't know how to use this device here
+so i really need your advice
+see you as soon as possible
 (1) rm -rf .git/
 
 (2) git init
