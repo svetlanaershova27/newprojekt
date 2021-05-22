@@ -1,7 +1,7 @@
 
 so i really need your advice
 see you as soon as possible
-(1) rm -rf .git/
+
 
 (2) git init
 
@@ -12,6 +12,6 @@ see you as soon as possible
 git add 
 
 git commit -m " "# описание
-vim ..
+
  
 git push -f origin main 
